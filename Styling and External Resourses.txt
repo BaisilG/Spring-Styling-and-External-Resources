@@ -5,3 +5,11 @@ Spring IDE:
 
 https://marketplace.eclipse.org/category/free-tagging/spring-ide
 
+###How to add spring plugin in Eclipse
+
+if you know the downloadable url then
+Help -> install New software 
+
+https://www.codejava.net/ides/eclipse/install-spring-tool-suite-for-existing-eclipse-ide
+
+
