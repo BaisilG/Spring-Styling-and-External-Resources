@@ -15,6 +15,8 @@ Name: <form:input path="name" />
 Gender: <form:radiobuttons path="gender" items="${genderMap}" />
 		<p />
       
+Country: <form:select path="country" items="${countryMap}" />
+		<p />
 
 		<input type="submit" value="Submit">
 	</form:form>
