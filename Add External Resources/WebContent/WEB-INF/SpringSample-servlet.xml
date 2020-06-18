@@ -21,4 +21,5 @@
 	<mvc:resources location="/WEB-INF/template/" mapping="/files/**"></mvc:resources>
 	
 	
+	<mvc:annotation-driven></mvc:annotation-driven>
 </beans>
