@@ -8,12 +8,7 @@
 <title>User info</title>
 </head>
 <body>
-Name: ${user.name}<p/>
-Gender: ${user.gender}<p/>
-Country: ${user.country}<p/>
-Introduction: ${user.introduction}<p/> 
-Visited Countries: 
-<ul>
+
 <c:forEach items="${user.visitedCountries}" var="item">
 <li>${item}</li>
 </c:forEach>
